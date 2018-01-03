@@ -1,5 +1,5 @@
 # crypto-docs
-Some finding about the crypto world
+Some findings about the crypto world
 
 ## Crypto to USD exchanges
 
