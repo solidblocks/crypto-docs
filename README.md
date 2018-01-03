@@ -6,3 +6,14 @@ Some findings about the crypto world
 * https://uphold.com
 * https://www.kraken.com
 * https://www.coinbase.com
+
+## Icos 
+
+* https://icodrops.com
+* https://www.tokendata.io
+* https://icostats.com
+* https://tools.icodrops.com/social/telegram
+
+Influencers:
+
+* http://ianbalina.com
