@@ -12,6 +12,7 @@ Some findings about the crypto world
 * https://icodrops.com
 * https://www.tokendata.io
 * https://icostats.com
+* https://icobazaar.com
 * https://tools.icodrops.com/social/telegram
 
 Influencers:
