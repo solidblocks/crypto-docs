@@ -18,3 +18,7 @@ Some findings about the crypto world
 Influencers:
 
 * http://ianbalina.com
+
+## Keeping track 
+
+* https://coinmarketcal.com
