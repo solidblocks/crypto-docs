@@ -22,3 +22,7 @@ Influencers:
 ## Keeping track 
 
 * https://coinmarketcal.com
+
+## Exchanges
+
+* https://radarrelay.com - erc20 tokens directly from ledger wallet
