@@ -33,3 +33,7 @@ Influencers:
 * https://www.myetherwallet.com/#ens
 * https://medium.com/@danfinlay/the-future-of-ens-subdomain-markets-e5b7d98a18d3
 * http://ens.readthedocs.io/en/latest/introduction.html
+
+## ERC20 tokens list of contracts
+
+* https://raw.githubusercontent.com/kvhnuke/etherwallet/mercury/app/scripts/tokens/ethTokens.json
