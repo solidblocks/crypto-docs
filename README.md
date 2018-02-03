@@ -26,3 +26,10 @@ Influencers:
 ## Exchanges
 
 * https://radarrelay.com - erc20 tokens directly from ledger wallet
+
+
+## Ethereum domains
+
+* https://www.myetherwallet.com/#ens
+* https://medium.com/@danfinlay/the-future-of-ens-subdomain-markets-e5b7d98a18d3
+* http://ens.readthedocs.io/en/latest/introduction.html
